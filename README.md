@@ -8,6 +8,6 @@ I’m a backend developer and an Open Source contributor. I love writing javaScr
 - 🤓 I’m currently learning Golang.
 - 👯 I’m looking to collaborate on any Nodejs or Golang project.
 - 💬 Ask me about Math, Backend development, javaScript, Nodejs, Golang, API design.
-- 📫 How to reach me: [My Mail](bolamigbeakinlua@gmail.com) or Twitter [ABolamigbe](twitter.com/ABolamigbe)
+- 📫 How to reach me: bolamigbeakinlua@gmail.com or Twitter [ABolamigbe](https://twitter.com/ABolamigbe)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love math, singing and dancing.
