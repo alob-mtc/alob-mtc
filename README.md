@@ -8,6 +8,6 @@ I’m a software engineer with concentration in backend engineering and DevOps. 
 - 🤓 I’m currently learning Rust.
 - 👯 I’m looking to collaborate on any (Nodejs || Golang || Rust) project.
 - 💬 Ask me about Math, Backend development, Distributed systems architecture, TypeScript, Nodejs, Golang, Rust.
-- 📫 How to reach me: bolamigbeakinlua@gmail.com or Twitter [ABolamigbe](https://twitter.com/alobmtc)
+- 📫 How to reach me: bolamigbeakinlua@gmail.com or Twitter [alobmtc](https://twitter.com/alobmtc)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love math, singing, dancing, watching movies, and reading how things work.
